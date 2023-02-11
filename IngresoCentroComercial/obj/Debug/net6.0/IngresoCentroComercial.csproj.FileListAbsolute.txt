@@ -1,0 +1,15 @@
+C:\Users\daine\Documentos\c#\IngresoCentroComercial\IngresoCentroComercial\bin\Debug\net6.0\IngresoCentroComercial.exe
+C:\Users\daine\Documentos\c#\IngresoCentroComercial\IngresoCentroComercial\bin\Debug\net6.0\IngresoCentroComercial.deps.json
+C:\Users\daine\Documentos\c#\IngresoCentroComercial\IngresoCentroComercial\bin\Debug\net6.0\IngresoCentroComercial.runtimeconfig.json
+C:\Users\daine\Documentos\c#\IngresoCentroComercial\IngresoCentroComercial\bin\Debug\net6.0\IngresoCentroComercial.dll
+C:\Users\daine\Documentos\c#\IngresoCentroComercial\IngresoCentroComercial\bin\Debug\net6.0\IngresoCentroComercial.pdb
+C:\Users\daine\Documentos\c#\IngresoCentroComercial\IngresoCentroComercial\obj\Debug\net6.0\IngresoCentroComercial.csproj.AssemblyReference.cache
+C:\Users\daine\Documentos\c#\IngresoCentroComercial\IngresoCentroComercial\obj\Debug\net6.0\IngresoCentroComercial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daine\Documentos\c#\IngresoCentroComercial\IngresoCentroComercial\obj\Debug\net6.0\IngresoCentroComercial.AssemblyInfoInputs.cache
+C:\Users\daine\Documentos\c#\IngresoCentroComercial\IngresoCentroComercial\obj\Debug\net6.0\IngresoCentroComercial.AssemblyInfo.cs
+C:\Users\daine\Documentos\c#\IngresoCentroComercial\IngresoCentroComercial\obj\Debug\net6.0\IngresoCentroComercial.csproj.CoreCompileInputs.cache
+C:\Users\daine\Documentos\c#\IngresoCentroComercial\IngresoCentroComercial\obj\Debug\net6.0\IngresoCentroComercial.dll
+C:\Users\daine\Documentos\c#\IngresoCentroComercial\IngresoCentroComercial\obj\Debug\net6.0\refint\IngresoCentroComercial.dll
+C:\Users\daine\Documentos\c#\IngresoCentroComercial\IngresoCentroComercial\obj\Debug\net6.0\IngresoCentroComercial.pdb
+C:\Users\daine\Documentos\c#\IngresoCentroComercial\IngresoCentroComercial\obj\Debug\net6.0\IngresoCentroComercial.genruntimeconfig.cache
+C:\Users\daine\Documentos\c#\IngresoCentroComercial\IngresoCentroComercial\obj\Debug\net6.0\ref\IngresoCentroComercial.dll
